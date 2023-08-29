@@ -1,0 +1,23 @@
+[33mcommit b7418180cafd02a9efce34189d35dab7f62e29af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Negrea-Andrei <negrea97@yahoo.com>
+Date:   Tue Aug 29 19:31:25 2023 +0300
+
+    Create third file and create fourth file
+
+[33mcommit 5d5d487868a080d8d6bc585655c635317ba2f44a[m
+Author: Negrea-Andrei <negrea97@yahoo.com>
+Date:   Tue Aug 29 19:31:12 2023 +0300
+
+    Create send file
+
+[33mcommit f16c634837ea94971f90b761f392e8286f987713[m
+Author: Negrea-Andrei <negrea97@yahoo.com>
+Date:   Tue Aug 29 19:31:04 2023 +0300
+
+    Create first file
+
+[33mcommit a4342e84c2f2da973577d9bb3e9a4fa9feb9d423[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Andrei Negrea <negrea97@yahoo.com>
+Date:   Tue Aug 29 19:29:13 2023 +0300
+
+    Initial commit
